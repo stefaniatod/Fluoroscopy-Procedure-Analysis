@@ -1,0 +1,301 @@
+Procedure_ID,Procedure_Type,Patient_Age,Fluoroscopy_Time_min,DAP_Gy_cm2,Air_Kerma_mGy,Operator,Date
+FL0001,Coronary Angiography,21,26.3,86.5,1708,Dr. A,2024-10-06
+FL0002,Peripheral Angiography,72,2.6,9.6,271,Dr. B,2024-10-14
+FL0003,Peripheral Angiography,71,8.9,46.1,835,Dr. D,2024-03-22
+FL0004,ERCP,53,6.7,39.4,771,Dr. C,2024-02-19
+FL0005,ERCP,51,28.5,139.0,4801,Dr. A,2024-07-12
+FL0006,Peripheral Angiography,55,29.3,136.2,3788,Dr. A,2024-12-26
+FL0007,Coronary Angiography,47,27.4,158.0,5171,Dr. C,2024-07-13
+FL0008,Barium Swallow,64,6.9,31.3,937,Dr. A,2024-12-15
+FL0009,Peripheral Angiography,39,19.4,67.4,1523,Dr. B,2024-11-23
+FL0010,ERCP,25,9.2,27.0,609,Dr. C,2024-04-18
+FL0011,Coronary Angioplasty,81,14.8,82.2,1850,Dr. C,2024-05-06
+FL0012,Peripheral Angiography,72,31.6,119.1,4164,Dr. D,2024-09-17
+FL0013,Coronary Angiography,24,30.3,91.2,2697,Dr. A,2024-11-01
+FL0014,Barium Swallow,66,21.5,86.5,2371,Dr. A,2024-01-06
+FL0015,Peripheral Angiography,52,27.2,98.7,2042,Dr. C,2024-01-02
+FL0016,Peripheral Angiography,40,18.5,58.4,1887,Dr. B,2024-09-16
+FL0017,Coronary Angioplasty,65,27.0,119.0,3215,Dr. C,2024-01-01
+FL0018,Barium Swallow,20,5.2,28.5,904,Dr. A,2024-05-02
+FL0019,Coronary Angioplasty,90,33.2,96.4,1849,Dr. B,2024-09-29
+FL0020,Coronary Angioplasty,78,33.2,104.7,2964,Dr. B,2024-04-18
+FL0021,ERCP,69,34.8,159.2,4266,Dr. B,2024-03-02
+FL0022,Coronary Angioplasty,26,12.8,56.9,1237,Dr. A,2024-02-06
+FL0023,Coronary Angioplasty,26,31.8,162.2,3576,Dr. D,2024-12-08
+FL0024,Coronary Angioplasty,87,5.9,37.0,963,Dr. D,2024-08-30
+FL0025,Coronary Angioplasty,30,4.7,22.1,573,Dr. A,2024-01-28
+FL0026,Coronary Angiography,69,25.9,128.0,2721,Dr. D,2024-10-01
+FL0027,Coronary Angioplasty,72,7.6,38.3,738,Dr. A,2024-10-08
+FL0028,Coronary Angiography,87,29.5,168.8,5474,Dr. D,2024-03-26
+FL0029,Barium Swallow,79,8.7,32.8,802,Dr. C,2024-07-18
+FL0030,Barium Swallow,54,15.7,94.3,2588,Dr. B,2024-09-06
+FL0031,Coronary Angioplasty,55,8.8,30.9,588,Dr. A,2024-06-09
+FL0032,Coronary Angiography,79,18.3,94.1,3231,Dr. B,2024-02-11
+FL0033,Coronary Angiography,26,24.1,78.5,2601,Dr. A,2024-05-06
+FL0034,Peripheral Angiography,28,15.5,71.1,2410,Dr. C,2024-04-14
+FL0035,Coronary Angioplasty,51,14.8,69.8,1632,Dr. A,2024-02-07
+FL0036,Barium Swallow,90,34.9,97.1,2186,Dr. A,2024-06-27
+FL0037,Coronary Angioplasty,65,11.0,47.4,1097,Dr. A,2024-11-30
+FL0038,Peripheral Angiography,56,32.7,100.7,2265,Dr. B,2024-02-24
+FL0039,ERCP,54,21.8,103.5,2979,Dr. D,2024-05-15
+FL0040,ERCP,24,4.6,20.1,363,Dr. C,2024-03-07
+FL0041,Coronary Angioplasty,74,20.0,75.8,1461,Dr. B,2024-12-19
+FL0042,Peripheral Angiography,22,29.5,126.8,2557,Dr. C,2024-06-06
+FL0043,Coronary Angiography,63,8.5,28.6,894,Dr. B,2024-07-27
+FL0044,Coronary Angioplasty,38,34.2,177.5,3270,Dr. D,2024-06-19
+FL0045,Coronary Angioplasty,52,6.8,35.1,655,Dr. B,2024-08-28
+FL0046,Coronary Angioplasty,76,13.2,74.2,1617,Dr. B,2024-12-03
+FL0047,Barium Swallow,60,10.8,37.0,887,Dr. D,2024-09-17
+FL0048,Peripheral Angiography,60,33.0,103.6,2179,Dr. A,2024-05-15
+FL0049,Coronary Angiography,73,13.1,68.0,2362,Dr. D,2024-02-29
+FL0050,Peripheral Angiography,42,10.0,46.3,1562,Dr. B,2024-10-02
+FL0051,ERCP,73,3.8,20.4,476,Dr. C,2024-03-04
+FL0052,Peripheral Angiography,57,23.8,89.8,2463,Dr. D,2024-04-08
+FL0053,Barium Swallow,40,22.1,80.7,1453,Dr. B,2024-05-26
+FL0054,Barium Swallow,59,17.1,67.6,1761,Dr. A,2024-03-27
+FL0055,ERCP,83,23.7,104.2,3562,Dr. C,2024-04-30
+FL0056,Coronary Angioplasty,43,6.4,26.7,758,Dr. D,2024-02-07
+FL0057,Barium Swallow,42,25.6,97.5,2000,Dr. A,2024-12-18
+FL0058,Coronary Angiography,72,8.8,50.2,1300,Dr. B,2024-10-12
+FL0059,Coronary Angiography,76,6.0,28.7,789,Dr. D,2024-06-11
+FL0060,Peripheral Angiography,82,15.8,86.9,1799,Dr. D,2024-08-31
+FL0061,ERCP,49,29.6,106.4,2792,Dr. C,2024-05-02
+FL0062,Barium Swallow,27,25.4,84.7,2810,Dr. B,2024-02-11
+FL0063,Coronary Angioplasty,47,14.3,44.4,1112,Dr. D,2024-06-18
+FL0064,Barium Swallow,25,8.4,40.6,1134,Dr. A,2024-12-22
+FL0065,Peripheral Angiography,66,17.5,96.2,2369,Dr. B,2024-08-02
+FL0066,Barium Swallow,46,10.6,45.8,1345,Dr. B,2024-07-26
+FL0067,Barium Swallow,34,34.4,150.2,4215,Dr. A,2024-12-05
+FL0068,Coronary Angiography,72,6.0,23.8,582,Dr. D,2024-04-18
+FL0069,ERCP,61,27.0,105.7,3397,Dr. A,2024-05-09
+FL0070,Barium Swallow,20,26.6,80.2,1749,Dr. A,2024-02-05
+FL0071,Coronary Angiography,49,8.2,22.5,453,Dr. A,2024-12-08
+FL0072,Peripheral Angiography,45,17.1,59.6,1687,Dr. B,2024-02-28
+FL0073,ERCP,31,20.9,116.2,3885,Dr. D,2024-07-11
+FL0074,Coronary Angioplasty,27,21.3,108.8,3248,Dr. A,2024-06-03
+FL0075,Peripheral Angiography,23,13.1,53.3,1418,Dr. A,2024-06-23
+FL0076,Barium Swallow,80,5.0,33.3,1069,Dr. B,2024-12-28
+FL0077,Barium Swallow,40,26.1,143.5,4555,Dr. D,2024-10-02
+FL0078,Barium Swallow,73,29.2,128.1,2840,Dr. C,2024-02-14
+FL0079,Barium Swallow,49,26.6,118.7,2815,Dr. C,2024-09-10
+FL0080,Coronary Angioplasty,80,8.6,45.5,1500,Dr. C,2024-12-25
+FL0081,Peripheral Angiography,19,18.8,60.2,1500,Dr. B,2024-10-11
+FL0082,Barium Swallow,80,16.5,45.0,1119,Dr. C,2024-05-04
+FL0083,Peripheral Angiography,65,17.4,75.5,2316,Dr. C,2024-06-18
+FL0084,Barium Swallow,52,11.8,44.9,1049,Dr. B,2024-10-01
+FL0085,Coronary Angioplasty,45,26.2,93.1,2879,Dr. C,2024-11-01
+FL0086,Coronary Angiography,42,11.4,43.9,1319,Dr. C,2024-03-05
+FL0087,Coronary Angiography,24,20.0,93.1,3050,Dr. A,2024-09-08
+FL0088,Coronary Angiography,54,17.2,67.6,1276,Dr. A,2024-09-01
+FL0089,Coronary Angiography,69,18.0,83.0,1708,Dr. C,2024-10-15
+FL0090,Coronary Angiography,49,5.5,32.4,1019,Dr. D,2024-04-25
+FL0091,Barium Swallow,74,11.5,53.3,1475,Dr. A,2024-01-31
+FL0092,Coronary Angioplasty,45,10.4,30.9,846,Dr. A,2024-03-21
+FL0093,Barium Swallow,75,24.6,96.5,2210,Dr. D,2024-05-24
+FL0094,Coronary Angiography,47,32.5,164.3,4804,Dr. D,2024-04-11
+FL0095,Coronary Angiography,87,9.0,29.2,596,Dr. B,2024-01-31
+FL0096,ERCP,90,32.4,128.4,2975,Dr. C,2024-07-25
+FL0097,Peripheral Angiography,87,18.0,49.7,1260,Dr. C,2024-06-14
+FL0098,Coronary Angiography,29,9.2,50.2,1405,Dr. C,2024-01-11
+FL0099,Peripheral Angiography,23,27.1,87.2,2225,Dr. B,2024-05-22
+FL0100,Peripheral Angiography,73,22.8,91.5,2188,Dr. C,2024-06-19
+FL0101,Coronary Angiography,38,12.5,60.1,2048,Dr. A,2024-10-08
+FL0102,Barium Swallow,29,12.0,51.3,1276,Dr. A,2024-09-20
+FL0103,Peripheral Angiography,77,15.3,50.5,1558,Dr. D,2024-11-16
+FL0104,Coronary Angiography,44,10.4,33.0,1088,Dr. A,2024-09-05
+FL0105,Coronary Angiography,48,25.3,87.0,2169,Dr. A,2024-04-25
+FL0106,Barium Swallow,33,23.2,78.0,1791,Dr. C,2024-12-27
+FL0107,Barium Swallow,79,34.3,116.3,2852,Dr. B,2024-11-02
+FL0108,Coronary Angiography,53,27.4,142.1,4461,Dr. A,2024-05-16
+FL0109,ERCP,56,29.6,132.1,4321,Dr. D,2024-08-16
+FL0110,ERCP,60,20.0,87.2,2047,Dr. B,2024-04-06
+FL0111,Peripheral Angiography,67,9.3,45.3,1389,Dr. D,2024-12-27
+FL0112,Barium Swallow,37,18.1,52.3,1466,Dr. D,2024-02-21
+FL0113,Coronary Angiography,85,32.0,82.9,2720,Dr. A,2024-03-20
+FL0114,Barium Swallow,51,12.8,65.1,2114,Dr. D,2024-12-11
+FL0115,ERCP,80,30.7,80.7,2318,Dr. B,2024-05-27
+FL0116,Coronary Angiography,73,34.3,171.0,3370,Dr. C,2024-03-26
+FL0117,Coronary Angiography,23,12.4,36.7,929,Dr. D,2024-05-05
+FL0118,Peripheral Angiography,41,7.2,28.4,810,Dr. D,2024-05-03
+FL0119,Peripheral Angiography,36,9.3,45.6,1338,Dr. C,2024-08-26
+FL0120,Peripheral Angiography,38,4.0,31.2,720,Dr. C,2024-08-05
+FL0121,Barium Swallow,56,8.2,34.8,767,Dr. C,2024-10-19
+FL0122,Peripheral Angiography,55,34.8,127.6,3725,Dr. A,2024-05-20
+FL0123,Peripheral Angiography,24,32.0,159.9,5333,Dr. C,2024-04-27
+FL0124,Coronary Angioplasty,42,22.3,108.3,3163,Dr. A,2024-03-11
+FL0125,Coronary Angiography,57,27.9,76.2,1542,Dr. C,2024-05-31
+FL0126,Barium Swallow,40,8.2,48.6,1177,Dr. C,2024-09-13
+FL0127,Coronary Angioplasty,50,32.1,180.8,4162,Dr. A,2024-06-22
+FL0128,Barium Swallow,27,6.2,42.1,1276,Dr. C,2024-07-22
+FL0129,Coronary Angiography,68,2.0,12.8,377,Dr. C,2024-12-10
+FL0130,Peripheral Angiography,66,29.1,155.9,3426,Dr. C,2024-01-13
+FL0131,Peripheral Angiography,46,23.2,106.9,3198,Dr. D,2024-11-28
+FL0132,Coronary Angiography,35,3.0,17.8,356,Dr. B,2024-04-30
+FL0133,Barium Swallow,76,13.9,81.3,2210,Dr. B,2024-10-27
+FL0134,Barium Swallow,30,29.4,137.2,3122,Dr. C,2024-12-19
+FL0135,Coronary Angioplasty,74,16.4,56.2,1949,Dr. C,2024-07-07
+FL0136,Coronary Angiography,68,10.7,67.3,2154,Dr. B,2024-02-16
+FL0137,Peripheral Angiography,20,3.2,21.1,662,Dr. A,2024-04-15
+FL0138,Peripheral Angiography,44,21.1,106.5,3319,Dr. A,2024-11-01
+FL0139,ERCP,36,34.6,150.6,2992,Dr. B,2024-01-14
+FL0140,Coronary Angiography,63,28.0,93.2,1954,Dr. B,2024-01-27
+FL0141,Barium Swallow,85,5.3,18.7,452,Dr. A,2024-10-30
+FL0142,Barium Swallow,82,8.9,45.9,1535,Dr. C,2024-12-03
+FL0143,Barium Swallow,21,3.5,17.8,528,Dr. D,2024-09-08
+FL0144,Coronary Angiography,28,12.3,37.5,1073,Dr. C,2024-10-26
+FL0145,Barium Swallow,85,11.4,50.1,1577,Dr. B,2024-02-28
+FL0146,Barium Swallow,75,31.3,125.4,3107,Dr. C,2024-02-18
+FL0147,Barium Swallow,58,23.8,87.8,2958,Dr. A,2024-02-04
+FL0148,Coronary Angiography,29,16.0,79.5,1607,Dr. C,2024-01-31
+FL0149,Coronary Angiography,70,13.3,67.3,2205,Dr. C,2024-01-27
+FL0150,Peripheral Angiography,57,13.3,58.4,1703,Dr. A,2024-04-24
+FL0151,ERCP,89,13.8,71.8,2278,Dr. A,2024-10-14
+FL0152,Peripheral Angiography,52,2.5,15.9,535,Dr. A,2024-06-28
+FL0153,Coronary Angioplasty,36,20.5,77.3,2223,Dr. A,2024-01-16
+FL0154,Peripheral Angiography,45,14.1,56.0,1305,Dr. A,2024-06-15
+FL0155,Coronary Angiography,37,6.8,36.3,821,Dr. D,2024-12-04
+FL0156,Barium Swallow,74,15.4,53.6,1279,Dr. C,2024-02-26
+FL0157,Peripheral Angiography,80,19.2,68.0,2362,Dr. A,2024-01-29
+FL0158,Coronary Angioplasty,56,33.2,167.1,3830,Dr. A,2024-03-02
+FL0159,Barium Swallow,73,7.4,34.0,901,Dr. C,2024-12-08
+FL0160,Coronary Angiography,68,30.4,80.0,2693,Dr. D,2024-06-09
+FL0161,Peripheral Angiography,69,25.3,96.1,1764,Dr. B,2024-06-15
+FL0162,Peripheral Angiography,76,29.4,155.5,5031,Dr. D,2024-05-04
+FL0163,Peripheral Angiography,69,19.1,73.5,1747,Dr. B,2024-06-19
+FL0164,Coronary Angiography,83,22.7,94.8,2957,Dr. B,2024-06-28
+FL0165,Coronary Angioplasty,31,6.4,25.8,798,Dr. A,2024-12-01
+FL0166,Coronary Angioplasty,81,17.0,77.0,2278,Dr. C,2024-10-16
+FL0167,ERCP,37,16.2,69.6,2195,Dr. A,2024-10-29
+FL0168,ERCP,82,4.0,15.9,386,Dr. A,2024-05-26
+FL0169,Coronary Angiography,82,14.4,70.6,2158,Dr. D,2024-01-22
+FL0170,Peripheral Angiography,42,12.3,49.8,949,Dr. C,2024-02-22
+FL0171,Coronary Angiography,82,23.1,67.5,2352,Dr. B,2024-09-25
+FL0172,ERCP,65,32.3,126.0,3722,Dr. C,2024-01-27
+FL0173,Coronary Angiography,60,4.7,24.2,733,Dr. B,2024-12-02
+FL0174,ERCP,28,21.0,64.9,2236,Dr. D,2024-12-23
+FL0175,Coronary Angioplasty,28,11.9,51.1,1626,Dr. A,2024-12-09
+FL0176,Barium Swallow,83,13.6,50.6,1095,Dr. B,2024-09-05
+FL0177,Coronary Angioplasty,35,6.7,30.6,815,Dr. A,2024-10-03
+FL0178,ERCP,34,21.5,65.5,1950,Dr. B,2024-11-15
+FL0179,Barium Swallow,23,15.3,71.7,1832,Dr. D,2024-05-25
+FL0180,Coronary Angioplasty,86,9.5,59.1,1972,Dr. C,2024-04-09
+FL0181,Peripheral Angiography,74,17.0,60.7,1637,Dr. B,2024-03-23
+FL0182,Peripheral Angiography,35,30.7,86.4,2100,Dr. A,2024-02-22
+FL0183,ERCP,28,27.1,99.0,2030,Dr. A,2024-08-11
+FL0184,Coronary Angioplasty,75,31.1,168.7,4174,Dr. B,2024-07-10
+FL0185,Barium Swallow,28,14.1,45.8,1478,Dr. C,2024-11-28
+FL0186,Coronary Angioplasty,35,2.8,19.4,623,Dr. D,2024-12-27
+FL0187,Barium Swallow,18,31.8,83.5,1715,Dr. D,2024-11-07
+FL0188,Coronary Angiography,54,9.5,29.6,854,Dr. D,2024-11-14
+FL0189,Coronary Angiography,32,29.5,123.3,3544,Dr. B,2024-10-21
+FL0190,Coronary Angioplasty,55,15.9,71.5,1793,Dr. A,2024-12-06
+FL0191,Peripheral Angiography,64,3.8,20.6,717,Dr. A,2024-10-10
+FL0192,Barium Swallow,78,3.0,14.7,451,Dr. A,2024-07-01
+FL0193,ERCP,48,26.1,122.2,3727,Dr. B,2024-06-19
+FL0194,Coronary Angiography,63,19.8,99.6,3112,Dr. D,2024-08-25
+FL0195,Coronary Angioplasty,35,3.6,22.0,506,Dr. B,2024-01-23
+FL0196,Coronary Angiography,58,32.8,142.6,3883,Dr. A,2024-05-09
+FL0197,Coronary Angioplasty,54,13.5,74.0,1750,Dr. C,2024-03-04
+FL0198,Barium Swallow,69,26.4,140.7,4862,Dr. D,2024-09-11
+FL0199,ERCP,84,10.4,32.8,831,Dr. C,2024-04-02
+FL0200,ERCP,31,4.2,21.9,619,Dr. B,2024-08-06
+FL0201,Barium Swallow,62,16.5,86.3,2455,Dr. C,2024-08-10
+FL0202,Coronary Angiography,27,24.0,94.4,2903,Dr. A,2024-03-22
+FL0203,Coronary Angioplasty,74,2.7,15.1,366,Dr. A,2024-07-15
+FL0204,Peripheral Angiography,37,24.2,133.1,4122,Dr. B,2024-10-20
+FL0205,Peripheral Angiography,64,14.8,68.3,1361,Dr. D,2024-04-05
+FL0206,Peripheral Angiography,67,32.1,99.3,2976,Dr. C,2024-04-19
+FL0207,Barium Swallow,43,5.6,32.8,1092,Dr. A,2024-08-15
+FL0208,ERCP,62,25.3,107.9,2492,Dr. B,2024-03-21
+FL0209,ERCP,83,9.0,57.0,1255,Dr. A,2024-09-09
+FL0210,ERCP,88,20.7,90.6,1831,Dr. A,2024-02-14
+FL0211,ERCP,68,35.0,168.2,5227,Dr. A,2024-10-21
+FL0212,Coronary Angioplasty,58,23.0,95.3,2274,Dr. B,2024-10-09
+FL0213,Coronary Angioplasty,73,18.3,101.7,2726,Dr. B,2024-06-04
+FL0214,Coronary Angioplasty,59,32.8,113.7,3050,Dr. A,2024-05-25
+FL0215,ERCP,43,22.8,95.9,2220,Dr. A,2024-09-30
+FL0216,Peripheral Angiography,39,21.3,92.1,2636,Dr. C,2024-11-05
+FL0217,Peripheral Angiography,23,29.1,75.7,2188,Dr. C,2024-10-22
+FL0218,Coronary Angioplasty,71,22.2,66.4,1811,Dr. C,2024-11-24
+FL0219,Barium Swallow,49,28.5,132.8,2555,Dr. B,2024-01-31
+FL0220,Barium Swallow,71,17.7,61.2,1427,Dr. C,2024-06-12
+FL0221,Barium Swallow,34,27.0,110.3,2439,Dr. C,2024-03-03
+FL0222,Barium Swallow,49,6.2,25.9,847,Dr. B,2024-08-02
+FL0223,Coronary Angioplasty,59,32.8,154.9,3208,Dr. D,2024-09-20
+FL0224,Barium Swallow,57,18.2,54.3,1399,Dr. B,2024-05-03
+FL0225,Peripheral Angiography,63,3.1,16.3,527,Dr. D,2024-12-10
+FL0226,ERCP,86,1.8,6.4,144,Dr. D,2024-07-06
+FL0227,ERCP,23,14.9,64.7,1773,Dr. D,2024-02-07
+FL0228,Peripheral Angiography,75,27.1,100.4,2969,Dr. B,2024-03-01
+FL0229,Coronary Angiography,68,14.0,82.0,1986,Dr. B,2024-03-14
+FL0230,Peripheral Angiography,83,14.9,39.4,1187,Dr. D,2024-08-30
+FL0231,Coronary Angioplasty,83,6.2,36.0,888,Dr. C,2024-11-11
+FL0232,Peripheral Angiography,61,18.5,79.4,2189,Dr. A,2024-08-31
+FL0233,ERCP,60,24.1,136.9,4318,Dr. A,2024-12-18
+FL0234,Peripheral Angiography,78,10.4,56.2,1564,Dr. A,2024-04-26
+FL0235,Peripheral Angiography,79,7.2,37.8,1221,Dr. B,2024-03-16
+FL0236,Coronary Angiography,32,7.9,34.4,861,Dr. D,2024-04-14
+FL0237,Peripheral Angiography,78,30.7,145.1,2952,Dr. C,2024-04-16
+FL0238,Barium Swallow,85,14.1,80.3,2173,Dr. C,2024-10-06
+FL0239,ERCP,79,7.9,31.2,681,Dr. C,2024-06-01
+FL0240,Coronary Angioplasty,80,12.1,52.2,1645,Dr. C,2024-05-20
+FL0241,Coronary Angiography,87,14.2,85.4,2923,Dr. C,2024-03-15
+FL0242,Coronary Angiography,54,33.5,100.9,2941,Dr. B,2024-09-02
+FL0243,Coronary Angioplasty,86,10.6,47.1,935,Dr. B,2024-10-27
+FL0244,Coronary Angioplasty,24,23.9,104.2,1969,Dr. C,2024-07-30
+FL0245,Barium Swallow,30,24.3,80.4,2784,Dr. D,2024-03-21
+FL0246,Barium Swallow,79,23.3,114.0,2605,Dr. A,2024-01-31
+FL0247,Peripheral Angiography,47,19.4,100.0,3352,Dr. D,2024-03-30
+FL0248,Coronary Angioplasty,22,34.9,133.8,4539,Dr. A,2024-05-28
+FL0249,Coronary Angiography,56,20.5,67.7,1546,Dr. D,2024-11-24
+FL0250,Coronary Angioplasty,82,17.2,54.1,1123,Dr. C,2024-08-22
+FL0251,Coronary Angioplasty,19,26.2,133.3,4115,Dr. D,2024-03-30
+FL0252,Barium Swallow,83,12.5,47.2,1637,Dr. C,2024-09-01
+FL0253,Coronary Angioplasty,18,10.2,40.2,1376,Dr. A,2024-06-03
+FL0254,ERCP,64,24.7,67.5,1567,Dr. C,2024-07-26
+FL0255,Coronary Angiography,55,13.8,53.2,1390,Dr. C,2024-08-20
+FL0256,Barium Swallow,88,32.1,161.2,5164,Dr. A,2024-05-06
+FL0257,Peripheral Angiography,75,19.2,78.0,1553,Dr. B,2024-10-07
+FL0258,Peripheral Angiography,86,6.5,27.9,557,Dr. D,2024-04-15
+FL0259,Coronary Angiography,83,16.4,45.1,1130,Dr. A,2024-10-15
+FL0260,Peripheral Angiography,77,24.0,82.4,1840,Dr. B,2024-01-02
+FL0261,Peripheral Angiography,27,3.0,11.2,391,Dr. D,2024-02-05
+FL0262,Coronary Angiography,54,15.2,80.7,2795,Dr. D,2024-11-26
+FL0263,ERCP,66,16.5,90.4,1751,Dr. B,2024-12-04
+FL0264,ERCP,33,7.5,36.1,1096,Dr. A,2024-04-24
+FL0265,Coronary Angiography,56,17.0,83.4,2039,Dr. B,2024-04-27
+FL0266,Barium Swallow,62,6.7,29.3,909,Dr. D,2024-01-17
+FL0267,Peripheral Angiography,20,9.6,31.9,816,Dr. A,2024-12-10
+FL0268,Coronary Angioplasty,23,15.0,50.2,1641,Dr. B,2024-01-29
+FL0269,Peripheral Angiography,55,9.3,54.6,1519,Dr. C,2024-12-10
+FL0270,Coronary Angioplasty,56,30.9,173.8,4350,Dr. A,2024-05-20
+FL0271,Peripheral Angiography,40,22.5,90.0,3108,Dr. D,2024-11-25
+FL0272,Peripheral Angiography,58,24.8,95.4,2015,Dr. D,2024-10-02
+FL0273,Coronary Angioplasty,46,11.6,61.7,2070,Dr. D,2024-10-14
+FL0274,Barium Swallow,89,19.3,73.3,1731,Dr. D,2024-02-10
+FL0275,ERCP,29,19.4,97.3,2375,Dr. A,2024-11-05
+FL0276,Coronary Angiography,42,28.5,128.2,2781,Dr. C,2024-04-16
+FL0277,ERCP,19,8.6,33.8,1038,Dr. B,2024-09-02
+FL0278,Peripheral Angiography,44,14.8,50.8,1159,Dr. C,2024-08-26
+FL0279,ERCP,51,13.5,74.2,2348,Dr. C,2024-08-28
+FL0280,Coronary Angioplasty,65,12.0,40.3,1233,Dr. C,2024-01-09
+FL0281,Peripheral Angiography,71,11.4,37.5,1038,Dr. D,2024-05-05
+FL0282,Peripheral Angiography,61,10.1,59.8,1729,Dr. D,2024-09-08
+FL0283,Coronary Angioplasty,63,7.2,38.4,1290,Dr. A,2024-10-04
+FL0284,Peripheral Angiography,22,29.6,88.8,1672,Dr. D,2024-01-04
+FL0285,Coronary Angioplasty,47,3.8,13.4,345,Dr. D,2024-01-31
+FL0286,Barium Swallow,20,1.7,7.2,194,Dr. C,2024-05-20
+FL0287,Coronary Angiography,82,28.7,137.8,4612,Dr. A,2024-02-24
+FL0288,Peripheral Angiography,37,9.6,44.4,1067,Dr. A,2024-07-22
+FL0289,ERCP,69,16.9,61.6,1423,Dr. A,2024-02-11
+FL0290,Coronary Angiography,69,14.2,59.6,1082,Dr. A,2024-03-28
+FL0291,Barium Swallow,73,23.1,90.5,3127,Dr. A,2024-09-27
+FL0292,Coronary Angioplasty,45,31.7,150.8,3409,Dr. C,2024-02-08
+FL0293,Peripheral Angiography,90,23.5,79.9,1459,Dr. B,2024-04-16
+FL0294,Barium Swallow,27,11.5,53.9,1749,Dr. C,2024-12-12
+FL0295,Barium Swallow,35,28.0,128.7,3948,Dr. A,2024-06-26
+FL0296,Coronary Angiography,73,9.3,31.4,893,Dr. D,2024-10-31
+FL0297,ERCP,21,22.7,114.6,2507,Dr. D,2024-10-10
+FL0298,Barium Swallow,41,24.3,109.8,3131,Dr. A,2024-05-06
+FL0299,Coronary Angiography,52,6.7,37.4,1143,Dr. C,2024-06-11
+FL0300,Coronary Angiography,29,1.7,9.4,212,Dr. A,2024-03-08
