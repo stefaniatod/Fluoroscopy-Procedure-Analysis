@@ -1,0 +1,17 @@
+-- Procedures with DAP greater than 80
+SELECT *
+FROM fluoroscopy_data
+WHERE DAP > 80;
+
+-- Maximum DAP value
+SELECT MAX(DAP)
+FROM fluoroscopy_data;
+
+-- Patient with the highest DAP
+SELECT *
+FROM fluoroscopy_data
+WHERE DAP =
+(
+SELECT MAX(DAP)
+FROM fluoroscopy_data
+);

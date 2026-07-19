@@ -1,0 +1,80 @@
+- Count total procedures
+SELECT COUNT(*)
+FROM fluoroscopy_data;
+
+-- List all procedure types
+SELECT DISTINCT Procedure
+FROM fluoroscopy_data;
+
+-- Number of procedures by type
+SELECT Procedure,
+COUNT(*) AS Number_of_Procedures
+FROM fluoroscopy_data
+GROUP BY Procedure;
+
+-- Average DAP by procedure
+SELECT Procedure,
+AVG(DAP) AS Average_DAP
+FROM fluoroscopy_data
+GROUP BY Procedure
+ORDER BY Average_DAP DESC;
+
+-- Average fluoroscopy time by procedure
+SELECT Procedure,
+AVG(Fluoroscopy_Time) AS Average_Time
+FROM fluoroscopy_data
+GROUP BY Procedure
+ORDER BY Average_Time DESC;
+
+-- Procedures with DAP greater than 80
+SELECT *
+FROM fluoroscopy_data
+WHERE DAP > 80;
+
+-- Maximum DAP value
+SELECT MAX(DAP)
+FROM fluoroscopy_data;
+
+-- Patient with the highest DAP
+SELECT *
+FROM fluoroscopy_data
+WHERE DAP = (
+    SELECT MAX(DAP)
+    FROM fluoroscopy_data
+);
+
+-- Patients older than 70
+SELECT *
+FROM fluoroscopy_data
+WHERE Patient_Age > 70;
+
+-- ERCP procedures
+SELECT *
+FROM fluoroscopy_data
+WHERE Procedure = 'ERCP';
+
+-- Top 5 highest DAP values
+SELECT *
+FROM fluoroscopy_data
+ORDER BY DAP DESC
+LIMIT 5;
+
+-- Top 3 patients with DAP greater than 100
+SELECT *
+FROM fluoroscopy_data
+WHERE DAP > 100
+ORDER BY DAP DESC
+LIMIT 3;
+
+-- Procedure types with average fluoroscopy time > 15 min
+SELECT Procedure,
+AVG(Fluoroscopy_Time) AS Average_Time
+FROM fluoroscopy_data
+GROUP BY Procedure
+HAVING AVG(Fluoroscopy_Time) > 15;
+
+-- Top 5 Air Kerma values
+SELECT *
+FROM fluoroscopy_data
+ORDER BY Air_Kerma DESC
+LIMIT 5;
